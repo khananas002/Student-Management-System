@@ -1,1 +1,2 @@
 Welcome to Student Management System
+Function: deleteStudent()
